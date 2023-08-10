@@ -98,3 +98,4 @@ Everything I needed to write this integration could be gathered from these sourc
 * [HA Community](https://community.home-assistant.io/t/hisense-tv-control/97638/1)
 * [RemoteNOW App](https://play.google.com/store/apps/details?id=com.universal.remote.ms)
 * [@d3nd3](https://github.com/d3nd3/Hisense-mqtt-keyfiles)
+* [@sehaas](https://github.com/sehaas/ha_hisense_tv)
